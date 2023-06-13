@@ -1,4 +1,3 @@
-uh
 hi
 lol
 im a kid and a noob programmer
