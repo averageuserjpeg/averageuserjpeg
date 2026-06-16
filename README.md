@@ -1,5 +1,1 @@
-WHO  EVEN KNOWS HOW TO CODE ANYMORE
-<!---
-averageuserjpeg/averageuserjpeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
+<img src="https://i.pinimg.com/originals/9b/f1/6a/9bf16ab3b55d35a0cfdbdcef0a6a6d4e.gif" width="300" alt="Description of GIF" />
